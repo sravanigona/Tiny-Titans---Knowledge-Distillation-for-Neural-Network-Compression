@@ -1,6 +1,6 @@
 # Knowledge Distillation for Model Compression
 
-This project implements a **Knowledge Distillation (KD)** framework to compress a large, complex neural network (ResNet-18 teacher model) into a lightweight, efficient custom CNN student model. The focus is on optimizing the model for deployment in resource-constrained environments without significantly compromising accuracy.
+This project implements a **Knowledge Distillation (KD)** framework to compress a large, complex neural network (ResNet-18 teacher model) into a lightweight, efficient custom CNN student model. The focus is on optimizing the model for deployment in resource-constrained environments without significantly compromising accuracy. ([Full Project Report](https://github.com/sravanigona/Tiny-Titans---Knowledge-Distillation-for-Neural-Network-Compression/blob/main/Project%20Report.pdf))
 
 ## Objective
 
